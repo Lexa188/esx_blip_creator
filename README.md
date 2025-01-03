@@ -1,9 +1,8 @@
-----BLIP CREATOR BY LEXA
-----Discord: @thereallexa
-----Discord: https://discord.gg/wPhQ3nb55G Last Development Discord.
-----Discord: https://discord.gg/UzwjQvt Join in my personal community.
+Discord: https://discord.gg/wPhQ3nb55G Last Development Discord.
+Discord: @thereallexa
 
 BLKN:
+
 esx_blip_creator je jednostavna skripta koju sam lično napravio za brzo i lako dodavanje blipova na mapi u FiveM. Skripta omogućava da u konfiguraciji jednostavno upišete svoje koordinate u formatu vector3 i odaberete odgovarajući blip sa sajta FiveM Blips.
 
 Kako koristiš skriptu:
@@ -15,6 +14,7 @@ Na name polje upisuješ naziv koji opisuje blip, kao što su "Bolnica", "Policij
 Skripta je jednostavna za korišćenje i idealna za brzu implementaciju novih blipova na serveru.
 
 English:
+
 esx_blip_creator is a simple script that I personally created for quickly and easily adding blips to the map in FiveM. The script allows you to simply input your coordinates in vector3 format in the config, and choose the appropriate blip from the FiveM Blips website.
 
 How to use the script:
